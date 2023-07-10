@@ -76,13 +76,17 @@ main {
 
 .movie-info span {
     background-color: var(--primary-color);
-    padding: 0.5rem 0.5rem;
+    padding: 0.5rem 0.25rem;
     font-weight: bold;
     border-radius: 5px;
+    height: 50px;
+    width: 50px;
+    
 }
 
 .movie-info span.green {
     color: lightgreen;
+    
 }
 
 .movie-info span.orange {
